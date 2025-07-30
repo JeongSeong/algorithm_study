@@ -15,8 +15,11 @@
 
 # 스터디 멤버
 [JeongSeong](https://github.com/JeongSeong) Python
+
 [noachilles](https://github.com/noachilles) Python
+
 [박주양]() Python
+
 [송영석]() C++
 
 # 참여 방법
