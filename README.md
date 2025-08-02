@@ -27,13 +27,16 @@
 1. 팀장 repository fork
 2. 각자 개인 repository 를 로컬 저장소에 clone
    - 생성된 원격 저장소에 `Github ID`로 폴더 생성
-   - repository 폴더 구조는 항상 다음과 같이 유지: `{Github ID}/{날짜}/{문제}/{코드}`
-4. 개인별 문제풀이 후 개인 reposiory 에 push
+   - repository 폴더 구조는 항상 다음과 같이 유지: `{Github ID}/{날짜}/{사이트_문제}/{코드}`
+   ```
+   noachilles / week01_0804 / BOJ_24262 / sol.py
+   ```
+3. 개인별 문제풀이 후 개인 reposiory 에 push
    - **`commit` 규칙 지키기!** 
-5. 자신의 원격 repository 에서 pull requests - New pull request 클릭
+4. 자신의 원격 repository 에서 pull requests - New pull request 클릭
    - 상단의 repository 계정이 팀장의 계정으로 변경됨
    - 그러면 우측의 create pull request 클릭
-7. 팀장이 자신의 repository 에서 pull request 확인
+5. 팀장이 자신의 repository 에서 pull request 확인
    - 충돌 확인 후 Merge pull request 수행
   
 ## 📌 소스코드 파일 이름 규칙  
