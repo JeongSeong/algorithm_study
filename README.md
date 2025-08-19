@@ -26,8 +26,7 @@
 
 1. 팀장 repository fork
 2. 각자 개인 repository 를 로컬 저장소에 clone
-   - 생성된 원격 저장소에 `Github ID`로 폴더 생성
-   - repository 폴더 구조는 항상 다음과 같이 유지: `{Github ID}/{날짜}/{사이트_문제}/{코드}`
+   - repository 폴더 구조는 항상 다음과 같이 유지: `{week_날짜}/{문제제목}/{user.py-코드}`
    ```
    noachilles / week01_0804 / BOJ_24262 / sol.py
    ```
@@ -44,11 +43,11 @@
    - 폴더명 또는 소스코드 파일명에 ":" 금지🚫
 
 ## 📌 Commit 규칙  
-**commit 메세지: `난이도 / 문제이름`**  
+**commit 메세지: `User / 문제 이름`**  
    - (optional) description: 문제 주소 or 문제 번호  
    - 터미널에서 작성법:  
 ```
-git commit -m "브론즈5 / Hello World" -m "https://www.acmicpc.net/problem/2557"
+git commit -m "noachilles / Hello World" -m "https://www.acmicpc.net/problem/2557"
 ```  
 
 ## 📌 PR 규칙  
