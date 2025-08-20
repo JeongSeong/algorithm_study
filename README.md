@@ -18,9 +18,11 @@
 
 [noachilles](https://github.com/noachilles) Python
 
-[박주양]() Python
+[박주양](https://github.com/parkjuyang12) Python
 
-[송영석]() C++
+[송영석](https://github.com/youngseok99) C++
+
+[김소원](https://github.com/Dae12-Han) python
 
 ## 📌 참여 방법
 
